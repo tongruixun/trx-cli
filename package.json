@@ -1,0 +1,29 @@
+{
+  "name": "tong-cli",
+  "version": "0.0.6",
+  "description": "a cli util",
+  "main": "bin/index.js",
+  "bin": {
+    "trx": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tongruixun/trx-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "tongruixun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tongruixun/trx-cli/issues"
+  },
+  "homepage": "https://github.com/tongruixun/trx-cli#readme",
+  "dependencies": {
+    "commander": "7.0.0",
+    "trx-util": "^0.0.3"
+  }
+}
