@@ -1,6 +1,6 @@
 {
-  "name": "tong-cli",
-  "version": "0.0.6",
+  "name": "trx-file-cli",
+  "version": "0.0.1",
   "description": "a cli util",
   "main": "bin/index.js",
   "bin": {
@@ -24,6 +24,6 @@
   "homepage": "https://github.com/tongruixun/trx-cli#readme",
   "dependencies": {
     "commander": "7.0.0",
-    "trx-util": "^0.0.3"
+    "trx-util": "0.0.4"
   }
 }
